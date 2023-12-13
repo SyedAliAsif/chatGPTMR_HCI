@@ -33,7 +33,7 @@ Here is an example of what your auth.json file should look like:
 ```
 
 # for text to speech
-For making the text to speech to work you need to create your own Azure subscription and use your key [![Video Title](https://img.youtube.com/vi/YWfGZvstlWw/0.jpg)] (https://www.youtube.com/watch?v=YWfGZvstlWw)
+For making the text to speech to work you need to create your own Azure subscription and use your key [![Video Title](https://img.youtube.com/vi/YWfGZvstlWw/0.jpg)](https://www.youtube.com/watch?v=YWfGZvstlWw)
 
 # For Performing Sentiment Analysis using Google Cloud Language API
 You can go to -> \Assets\Samples\OpenAI Unity\0.1.14\Whisper.cs file to check for the API key and user your own to perform the sentiment analysis
