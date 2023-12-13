@@ -45,7 +45,7 @@ Please visit the issues tab to add/review known issues
 # Other
 Special credit for the intitial codebase: Gavin Caulfield
 
-#Team Information
+# Team Information
 Syed Ali Asif - asifrabi@udel.edu
 Mohammad Samer Abdul Munim Al Ratrout - mratrout@udel.edu
 Behdokht Kiafar - kiafar@udel.edu
