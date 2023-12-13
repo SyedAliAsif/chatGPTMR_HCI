@@ -47,7 +47,11 @@ Special credit for the intitial codebase: Gavin Caulfield
 
 # Team Information
 Syed Ali Asif - asifrabi@udel.edu
+
 Mohammad Samer Abdul Munim Al Ratrout - mratrout@udel.edu
+
 Behdokht Kiafar - kiafar@udel.edu
+
 Emma Cao - caoemma@udel.edu
+
 Zolfa Saadat - zsaadat@udel.edu
