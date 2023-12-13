@@ -7,6 +7,9 @@ For any and all questions, please contact me at asifrabi@udel.edu
 # Demo Video
 [![Video Title](https://img.youtube.com/vi/saMoOezbxRw/0.jpg)](https://www.youtube.com/watch?v=saMoOezbxRw)
 
+# Demo Video with Emotionally Intelligent Virtual Buddy
+https://www.youtube.com/watch?v=_-bvOt2c2CA
+
 # Installation Video
 [![Video Title](https://img.youtube.com/vi/CR11_s1qHyg/0.jpg)](https://www.youtube.com/watch?v=CR11_s1qHyg)
 
